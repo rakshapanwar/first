@@ -3,4 +3,6 @@ welcome all
 
 git is a distributed , version control sytem
 
+it can be implemented by github , itlab etc
+
 thanks all
