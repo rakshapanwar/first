@@ -1,4 +1,6 @@
 welcome all
 -let's get started with git
+
 git is a distributed , version control sytem
-thanks
+
+thanks all
